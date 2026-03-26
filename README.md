@@ -1,1 +1,1 @@
-# tinau-restaurant
+# Tinau-Restaurant
